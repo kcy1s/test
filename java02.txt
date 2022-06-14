@@ -10,6 +10,5 @@ java02.txt
 
 
 mmmmmmmmm
-nnnnnnnnn
 
 123456789
